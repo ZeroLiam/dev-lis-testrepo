@@ -1,6 +1,4 @@
 # dev-lis-testrepo
-HEY
-OHH
 Test repo for testing :D
 
 One more line to be sure...
