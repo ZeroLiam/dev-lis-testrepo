@@ -1,6 +1,5 @@
 # dev-lis-testrepo
 Test repo for testing :D
-OH
 
 One more line to be sure...
 Another one for the boys...
